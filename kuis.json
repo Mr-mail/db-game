@@ -1,0 +1,832 @@
+{
+  "quiz": [
+    {
+      "question": "Apa nama benua\nyang dikenal sebagai\nbenua hitam?",
+      "choices": {
+        "A": "Asia",
+        "B": "Eropa",
+        "C": "Afrika"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Apa nama sungai\nterpanjang di dunia?",
+      "choices": {
+        "A": "Sungai Amazon",
+        "B": "Sungai Nil",
+        "C": "Sungai Yangtze"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Apa nama mata uang\nyang digunakan di Jepang?",
+      "choices": {
+        "A": "Yuan",
+        "B": "Dolar",
+        "C": "Yen"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Siapa penemu telepon?",
+      "choices": {
+        "A": "Alexander Graham Bell",
+        "B": "Thomas Edison",
+        "C": "Nikola Tesla"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Apa nama organisasi\nyang mengatur olahraga\nOlimpiade?",
+      "choices": {
+        "A": "FIFA",
+        "B": "IOC",
+        "C": "NBA"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Di benua manakah\nnegara Australia berada?",
+      "choices": {
+        "A": "Asia",
+        "B": "Afrika",
+        "C": "Oseania"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Apa nama bentuk\npemerintahan di Inggris?",
+      "choices": {
+        "A": "Republik",
+        "B": "Monarki Konstitusi",
+        "C": "Demokrasi"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Apa nama ibukota\nKanada?",
+      "choices": {
+        "A": "Toronto",
+        "B": "Vancouver",
+        "C": "Ottawa"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Apa nama garis\nkhayal yang membagi\nbumi menjadi belahan\nutara dan selatan?",
+      "choices": {
+        "A": "Garis Khatulistiwa",
+        "B": "Garis Greenwich",
+        "C": "Garis Poler"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Apa nama perjanjian\ninternasional yang membatasi\npenggunaan senjata nuklir?",
+      "choices": {
+        "A": "Perjanjian Paris",
+        "B": "Perjanjian Non-Proliferasi Nuklir",
+        "C": "Perjanjian Geneva"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Negara manakah yang\nterletak di benua Asia\n dan terkenal dengan\nGreat Wall-nya?",
+      "choices": {
+        "A": "Jepang",
+        "B": "China",
+        "C": "India"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Apa nama presiden\npertama Indonesia?",
+      "choices": {
+        "A": "Soekarno",
+        "B": "Soeharto",
+        "C": "BJ Habibie"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Apa nama sistem\npemerintahan yang diterapkan\n di Indonesia?",
+      "choices": {
+        "A": "Monarki",
+        "B": "Republik",
+        "C": "Kongres"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Apa ibu kota dari\nnegara Brasil?",
+      "choices": {
+        "A": "Rio de Janeiro",
+        "B": "São Paulo",
+        "C": "Brasília"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Apa nama samudra\nterbesar di dunia?",
+      "choices": {
+        "A": "Samudra Atlantik",
+        "B": "Samudra Hindia",
+        "C": "Samudra Pasifik"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Di negara manakah\nkota Paris berada?",
+      "choices": {
+        "A": "Jerman",
+        "B": "Perancis",
+        "C": "Belgia"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Apa nama organisasi\ninternasional yang bertujuan\nuntuk menjaga perdamaian\n dunia?",
+      "choices": {
+        "A": "UNICEF",
+        "B": "WHO",
+        "C": "PBB"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Apa nama pulau\nterbesar di Indonesia?",
+      "choices": {
+        "A": "Bali",
+        "B": "Sumatra",
+        "C": "Kalimantan"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Apa nama sistem\npengukuran yang digunakan\n di sebagian besar negara\n di dunia termasuk Indonesia?",
+      "choices": {
+        "A": "Sistem Imperial",
+        "B": "Sistem Metrik",
+        "C": "Sistem Tradisional"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Apa nama perdagangan\nantar negara yang dilakukan\n dengan cara jual beli barang?",
+      "choices": {
+        "A": "Ekspor",
+        "B": "Impor",
+        "C": "Perdagangan Internasional"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Bagian dari mata\nyang berfungsi untuk\nmengatur jumlah cahaya\n yang masuk adalah?",
+      "choices": {
+        "A": "Lensa",
+        "B": "Pupil",
+        "C": "Iris"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Proses perubahan air\nmenjadi uap air karena\n panas disebut?",
+      "choices": {
+        "A": "Kondensasi",
+        "B": "Evaporasi",
+        "C": "Presipitasi"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Apa nama alat\n yang digunakan untuk\nmengukur kekuatan gempa\n bumi?",
+      "choices": {
+        "A": "Barometer",
+        "B": "Seismograf",
+        "C": "Anemometer"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Perubahan wujud zat\n dari cair menjadi padat\n disebut?",
+      "choices": {
+        "A": "Menguap",
+        "B": "Mencair",
+        "C": "Membeku"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Tumbuhan yang menyimpan\ncadangan makanan pada\nbatangnya adalah?",
+      "choices": {
+        "A": "Singkong",
+        "B": "Padi",
+        "C": "Sagu"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Hewan yang mengalami\nmetamorfosis sempurna adalah?",
+      "choices": {
+        "A": "Ayam",
+        "B": "Kupu-kupu",
+        "C": "Kucing"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Lapisan bumi tempat\nkita tinggal disebut?",
+      "choices": {
+        "A": "Mantel",
+        "B": "Inti",
+        "C": "Kerak"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Sumber energi yang tidak\n dapat diperbarui adalah?",
+      "choices": {
+        "A": "Minyak bumi",
+        "B": "Angin",
+        "C": "Matahari"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Bagian tumbuhan yang\nberfungsi sebagai alat\nperkembangbiakan adalah?",
+      "choices": {
+        "A": "Akar",
+        "B": "Daun",
+        "C": "Bunga"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Proses dimana tumbuhan\nmengubah sinar matahari\n menjadi energi disebut?",
+      "choices": {
+        "A": "Respirasi",
+        "B": "Fotosintesis",
+        "C": "Transpirasi"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Apa yang menjadi sumber\nenergi utama bagi kehidupan\n di Bumi?",
+      "choices": {
+        "A": "Matahari",
+        "B": "Bulan",
+        "C": "Bintang"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Apa yang terjadi pada\nair ketika dibekukan?",
+      "choices": {
+        "A": "Menjadi gas",
+        "B": "Menjadi es",
+        "C": "Menghilang"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Hewan apa yang disebut\nraja hutan?",
+      "choices": {
+        "A": "Gajah",
+        "B": "Harimau",
+        "C": "Singa"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Apa bagian tanaman\n yang berfungsi menyerap\n air dan nutrisi dari tanah?",
+      "choices": {
+        "A": "Daun",
+        "B": "Akar",
+        "C": "Batang"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Apa yang digunakan tanaman\nuntuk membuat makanan\n melalui proses fotosintesis?",
+      "choices": {
+        "A": "Air, udara, dan cahaya matahari",
+        "B": "Air, batu, dan tanah",
+        "C": "Air, angin, dan api"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Apa yang terjadi saat\nsiang hari ketika Matahari\nberada di atas kepala\n kita?",
+      "choices": {
+        "A": "Siang menjadi malam",
+        "B": "Bayangan menjadi pendek",
+        "C": "Bayangan menjadi panjang"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Apa yang dihasilkan oleh\nlebah selain madu?",
+      "choices": {
+        "A": "Gula",
+        "B": "Lilin",
+        "C": "Kertas"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Apa yang terjadi jika\nkita menyiram tanaman\n setiap hari?",
+      "choices": {
+        "A": "Tanaman akan layu",
+        "B": "Tanaman akan tumbuh subur",
+        "C": "Tanaman akan mengering"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Apa nama planet terbesar\n di tata surya kita?",
+      "choices": {
+        "A": "Bumi",
+        "B": "Mars",
+        "C": "Jupiter"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Apa yang terjadi pada\nbayangan kita saat malam\nhari tanpa adanya cahaya?",
+      "choices": {
+        "A": "Bayangan terlihat jelas",
+        "B": "Bayangan menjadi sangat besar",
+        "C": "Bayangan tidak terlihat"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Apa nama ibukota Spanyol?",
+      "choices": {
+        "A": "Barcelona",
+        "B": "Madrid",
+        "C": "Sevilla"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Apa nama benua terkecil di dunia?",
+      "choices": {
+        "A": "Australia",
+        "B": "Antartika",
+        "C": "Eropa"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Apa nama mata uang resmi Thailand?",
+      "choices": {
+        "A": "Ringgit",
+        "B": "Baht",
+        "C": "Dong"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Apa nama danau terdalam di dunia?",
+      "choices": {
+        "A": "Danau Toba",
+        "B": "Danau Baikal",
+        "C": "Danau Victoria"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Negara manakah yang memiliki populasi terbesar di dunia?",
+      "choices": {
+        "A": "India",
+        "B": "Amerika Serikat",
+        "C": "China"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Apa nama gurun terluas di dunia?",
+      "choices": {
+        "A": "Gurun Sahara",
+        "B": "Gurun Gobi",
+        "C": "Gurun Arab"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Apa nama ibukota Mesir?",
+      "choices": {
+        "A": "Alexandria",
+        "B": "Kairo",
+        "C": "Luxor"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Apa nama sungai terpanjang di Eropa?",
+      "choices": {
+        "A": "Sungai Thames",
+        "B": "Sungai Volga",
+        "C": "Sungai Danube"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Di manakah letak Menara Eiffel?",
+      "choices": {
+        "A": "London",
+        "B": "Paris",
+        "C": "Roma"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Apa nama ibukota Argentina?",
+      "choices": {
+        "A": "Buenos Aires",
+        "B": "Santiago",
+        "C": "Lima"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Apa nama gunung berapi tertinggi di Indonesia?",
+      "choices": {
+        "A": "Gunung Merapi",
+        "B": "Gunung Kerinci",
+        "C": "Gunung Semeru"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Apa nama selat yang memisahkan Jawa dan Sumatra?",
+      "choices": {
+        "A": "Selat Sunda",
+        "B": "Selat Malaka",
+        "C": "Selat Lombok"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Apa nama ibukota Malaysia?",
+      "choices": {
+        "A": "Kuala Lumpur",
+        "B": "Jakarta",
+        "C": "Bangkok"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Apa nama bandara internasional utama di Bali?",
+      "choices": {
+        "A": "Bandara Soekarno-Hatta",
+        "B": "Bandara Ngurah Rai",
+        "C": "Bandara Juanda"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Pulau manakah yang terbesar di Indonesia setelah Kalimantan?",
+      "choices": {
+        "A": "Sumatra",
+        "B": "Sulawesi",
+        "C": "Jawa"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Apa nama mata uang resmi Korea Selatan?",
+      "choices": {
+        "A": "Yen",
+        "B": "Won",
+        "C": "Ringgit"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Apa nama ibukota Vietnam?",
+      "choices": {
+        "A": "Ho Chi Minh City",
+        "B": "Hanoi",
+        "C": "Bangkok"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Apa nama danau terbesar di Afrika?",
+      "choices": {
+        "A": "Danau Victoria",
+        "B": "Danau Tanganyika",
+        "C": "Danau Malawi"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Apa nama ibukota Turki?",
+      "choices": {
+        "A": "Istanbul",
+        "B": "Ankara",
+        "C": "Izmir"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Apa nama sungai yang mengalir melalui kota London?",
+      "choices": {
+        "A": "Sungai Seine",
+        "B": "Sungai Thames",
+        "C": "Sungai Rhine"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Apa nama ibukota Australia?",
+      "choices": {
+        "A": "Sydney",
+        "B": "Melbourne",
+        "C": "Canberra"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Apa nama negara terkecil di dunia?",
+      "choices": {
+        "A": "Monako",
+        "B": "Vatikan",
+        "C": "San Marino"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Apa nama ibukota Filipina?",
+      "choices": {
+        "A": "Cebu",
+        "B": "Manila",
+        "C": "Davao"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Apa nama pegunungan yang membatasi Eropa dan Asia?",
+      "choices": {
+        "A": "Pegunungan Alpen",
+        "B": "Pegunungan Ural",
+        "C": "Pegunungan Himalaya"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Apa nama ibukota Afrika Selatan?",
+      "choices": {
+        "A": "Johannesburg",
+        "B": "Cape Town",
+        "C": "Pretoria"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Apa nama laut yang terletak antara Arab dan Afrika?",
+      "choices": {
+        "A": "Laut Merah",
+        "B": "Laut Mediterania",
+        "C": "Laut Hitam"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Apa nama ibukota Rusia?",
+      "choices": {
+        "A": "St. Petersburg",
+        "B": "Moskwa",
+        "C": "Kazan"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Apa nama negara yang terletak di ujung selatan Amerika Selatan?",
+      "choices": {
+        "A": "Chile",
+        "B": "Argentina",
+        "C": "Brazil"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Apa nama ibukota Belanda?",
+      "choices": {
+        "A": "Rotterdam",
+        "B": "Amsterdam",
+        "C": "Den Haag"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Apa nama selat yang memisahkan Inggris dan Perancis?",
+      "choices": {
+        "A": "Selat Gibraltar",
+        "B": "Selat Dover",
+        "C": "Selat Bosphorus"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Apa nama ibukota Yunani?",
+      "choices": {
+        "A": "Thessaloniki",
+        "B": "Athena",
+        "C": "Patras"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Apa nama negara yang dikenal sebagai Negeri Matahari Terbit?",
+      "choices": {
+        "A": "Korea Selatan",
+        "B": "China",
+        "C": "Jepang"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Apa nama ibukota Meksiko?",
+      "choices": {
+        "A": "Guadalajara",
+        "B": "Mexico City",
+        "C": "Monterrey"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Apa nama sungai suci di India?",
+      "choices": {
+        "A": "Sungai Gangga",
+        "B": "Sungai Yamuna",
+        "C": "Sungai Brahmaputra"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Apa nama ibukota Norwegia?",
+      "choices": {
+        "A": "Stockholm",
+        "B": "Oslo",
+        "C": "Kopenhagen"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Apa nama negara yang memiliki bentuk seperti sepatu boot?",
+      "choices": {
+        "A": "Spanyol",
+        "B": "Italia",
+        "C": "Portugal"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Apa nama ibukota Swiss?",
+      "choices": {
+        "A": "Zurich",
+        "B": "Jenewa",
+        "C": "Bern"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Apa nama laut yang terletak antara Italia dan Balkan?",
+      "choices": {
+        "A": "Laut Adriatik",
+        "B": "Laut Tengah",
+        "C": "Laut Hitam"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Apa nama ibukota Portugal?",
+      "choices": {
+        "A": "Porto",
+        "B": "Lisbon",
+        "C": "Faro"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Apa nama negara yang terletak di antara Spanyol dan Perancis?",
+      "choices": {
+        "A": "Andorra",
+        "B": "Portugal",
+        "C": "Monako"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Apa nama ibukota Polandia?",
+      "choices": {
+        "A": "Krakow",
+        "B": "Warsawa",
+        "C": "Gdansk"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Apa nama negara yang terletak di ujung utara Eropa?",
+      "choices": {
+        "A": "Finlandia",
+        "B": "Swedia",
+        "C": "Norwegia"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Apa nama ibukota Denmark?",
+      "choices": {
+        "A": "Oslo",
+        "B": "Stockholm",
+        "C": "Kopenhagen"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Apa nama negara yang terletak di antara Prancis dan Jerman?",
+      "choices": {
+        "A": "Belgia",
+        "B": "Luksemburg",
+        "C": "Belanda"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Apa nama ibukota Finlandia?",
+      "choices": {
+        "A": "Stockholm",
+        "B": "Oslo",
+        "C": "Helsinki"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Apa nama negara yang terletak di sebelah utara Jerman?",
+      "choices": {
+        "A": "Belanda",
+        "B": "Denmark",
+        "C": "Polandia"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Apa nama ibukota Hungaria?",
+      "choices": {
+        "A": "Prague",
+        "B": "Budapest",
+        "C": "Bratislava"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Apa nama negara yang terletak di sebelah barat Spanyol?",
+      "choices": {
+        "A": "Portugal",
+        "B": "Maroko",
+        "C": "Perancis"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Apa nama ibukota Republik Ceko?",
+      "choices": {
+        "A": "Bratislava",
+        "B": "Prague",
+        "C": "Wina"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Apa nama negara yang terletak di sebelah selatan Austria?",
+      "choices": {
+        "A": "Swiss",
+        "B": "Slovenia",
+        "C": "Slowakia"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Apa nama ibukota Rumania?",
+      "choices": {
+        "A": "Budapest",
+        "B": "Bukares",
+        "C": "Sofia"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Apa nama negara yang terletak di sebelah timur Jerman?",
+      "choices": {
+        "A": "Austria",
+        "B": "Polandia",
+        "C": "Republik Ceko"
+      },
+      "correctAnswer": "B"
+    }    
+  ]
+}
