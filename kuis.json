@@ -1,832 +1,1579 @@
 {
   "quiz": [
-    {
-      "question": "Apa nama benua\nyang dikenal sebagai\nbenua hitam?",
-      "choices": {
-        "A": "Asia",
-        "B": "Eropa",
-        "C": "Afrika"
-      },
-      "correctAnswer": "C"
-    },
-    {
-      "question": "Apa nama sungai\nterpanjang di dunia?",
-      "choices": {
-        "A": "Sungai Amazon",
-        "B": "Sungai Nil",
-        "C": "Sungai Yangtze"
-      },
-      "correctAnswer": "B"
-    },
-    {
-      "question": "Apa nama mata uang\nyang digunakan di Jepang?",
-      "choices": {
-        "A": "Yuan",
-        "B": "Dolar",
-        "C": "Yen"
-      },
-      "correctAnswer": "C"
-    },
-    {
-      "question": "Siapa penemu telepon?",
-      "choices": {
-        "A": "Alexander Graham Bell",
-        "B": "Thomas Edison",
-        "C": "Nikola Tesla"
-      },
-      "correctAnswer": "A"
-    },
-    {
-      "question": "Apa nama organisasi\nyang mengatur olahraga\nOlimpiade?",
-      "choices": {
-        "A": "FIFA",
-        "B": "IOC",
-        "C": "NBA"
-      },
-      "correctAnswer": "B"
-    },
-    {
-      "question": "Di benua manakah\nnegara Australia berada?",
-      "choices": {
-        "A": "Asia",
-        "B": "Afrika",
-        "C": "Oseania"
-      },
-      "correctAnswer": "C"
-    },
-    {
-      "question": "Apa nama bentuk\npemerintahan di Inggris?",
-      "choices": {
-        "A": "Republik",
-        "B": "Monarki Konstitusi",
-        "C": "Demokrasi"
-      },
-      "correctAnswer": "B"
-    },
-    {
-      "question": "Apa nama ibukota\nKanada?",
-      "choices": {
-        "A": "Toronto",
-        "B": "Vancouver",
-        "C": "Ottawa"
-      },
-      "correctAnswer": "C"
-    },
-    {
-      "question": "Apa nama garis\nkhayal yang membagi\nbumi menjadi belahan\nutara dan selatan?",
-      "choices": {
-        "A": "Garis Khatulistiwa",
-        "B": "Garis Greenwich",
-        "C": "Garis Poler"
-      },
-      "correctAnswer": "A"
-    },
-    {
-      "question": "Apa nama perjanjian\ninternasional yang membatasi\npenggunaan senjata nuklir?",
-      "choices": {
-        "A": "Perjanjian Paris",
-        "B": "Perjanjian Non-Proliferasi Nuklir",
-        "C": "Perjanjian Geneva"
-      },
-      "correctAnswer": "B"
-    },
-    {
-      "question": "Negara manakah yang\nterletak di benua Asia\n dan terkenal dengan\nGreat Wall-nya?",
-      "choices": {
-        "A": "Jepang",
-        "B": "China",
-        "C": "India"
-      },
-      "correctAnswer": "B"
-    },
-    {
-      "question": "Apa nama presiden\npertama Indonesia?",
-      "choices": {
-        "A": "Soekarno",
-        "B": "Soeharto",
-        "C": "BJ Habibie"
-      },
-      "correctAnswer": "A"
-    },
-    {
-      "question": "Apa nama sistem\npemerintahan yang diterapkan\n di Indonesia?",
-      "choices": {
-        "A": "Monarki",
-        "B": "Republik",
-        "C": "Kongres"
-      },
-      "correctAnswer": "B"
-    },
-    {
-      "question": "Apa ibu kota dari\nnegara Brasil?",
-      "choices": {
-        "A": "Rio de Janeiro",
-        "B": "São Paulo",
-        "C": "Brasília"
-      },
-      "correctAnswer": "C"
-    },
-    {
-      "question": "Apa nama samudra\nterbesar di dunia?",
-      "choices": {
-        "A": "Samudra Atlantik",
-        "B": "Samudra Hindia",
-        "C": "Samudra Pasifik"
-      },
-      "correctAnswer": "C"
-    },
-    {
-      "question": "Di negara manakah\nkota Paris berada?",
-      "choices": {
-        "A": "Jerman",
-        "B": "Perancis",
-        "C": "Belgia"
-      },
-      "correctAnswer": "B"
-    },
-    {
-      "question": "Apa nama organisasi\ninternasional yang bertujuan\nuntuk menjaga perdamaian\n dunia?",
-      "choices": {
-        "A": "UNICEF",
-        "B": "WHO",
-        "C": "PBB"
-      },
-      "correctAnswer": "C"
-    },
-    {
-      "question": "Apa nama pulau\nterbesar di Indonesia?",
-      "choices": {
-        "A": "Bali",
-        "B": "Sumatra",
-        "C": "Kalimantan"
-      },
-      "correctAnswer": "C"
-    },
-    {
-      "question": "Apa nama sistem\npengukuran yang digunakan\n di sebagian besar negara\n di dunia termasuk Indonesia?",
-      "choices": {
-        "A": "Sistem Imperial",
-        "B": "Sistem Metrik",
-        "C": "Sistem Tradisional"
-      },
-      "correctAnswer": "B"
-    },
-    {
-      "question": "Apa nama perdagangan\nantar negara yang dilakukan\n dengan cara jual beli barang?",
-      "choices": {
-        "A": "Ekspor",
-        "B": "Impor",
-        "C": "Perdagangan Internasional"
-      },
-      "correctAnswer": "C"
-    },
-    {
-      "question": "Bagian dari mata\nyang berfungsi untuk\nmengatur jumlah cahaya\n yang masuk adalah?",
-      "choices": {
-        "A": "Lensa",
-        "B": "Pupil",
-        "C": "Iris"
-      },
-      "correctAnswer": "B"
-    },
-    {
-      "question": "Proses perubahan air\nmenjadi uap air karena\n panas disebut?",
-      "choices": {
-        "A": "Kondensasi",
-        "B": "Evaporasi",
-        "C": "Presipitasi"
-      },
-      "correctAnswer": "B"
-    },
-    {
-      "question": "Apa nama alat\n yang digunakan untuk\nmengukur kekuatan gempa\n bumi?",
-      "choices": {
-        "A": "Barometer",
-        "B": "Seismograf",
-        "C": "Anemometer"
-      },
-      "correctAnswer": "B"
-    },
-    {
-      "question": "Perubahan wujud zat\n dari cair menjadi padat\n disebut?",
-      "choices": {
-        "A": "Menguap",
-        "B": "Mencair",
-        "C": "Membeku"
-      },
-      "correctAnswer": "C"
-    },
-    {
-      "question": "Tumbuhan yang menyimpan\ncadangan makanan pada\nbatangnya adalah?",
-      "choices": {
-        "A": "Singkong",
-        "B": "Padi",
-        "C": "Sagu"
-      },
-      "correctAnswer": "C"
-    },
-    {
-      "question": "Hewan yang mengalami\nmetamorfosis sempurna adalah?",
-      "choices": {
-        "A": "Ayam",
-        "B": "Kupu-kupu",
-        "C": "Kucing"
-      },
-      "correctAnswer": "B"
-    },
-    {
-      "question": "Lapisan bumi tempat\nkita tinggal disebut?",
-      "choices": {
-        "A": "Mantel",
-        "B": "Inti",
-        "C": "Kerak"
-      },
-      "correctAnswer": "C"
-    },
-    {
-      "question": "Sumber energi yang tidak\n dapat diperbarui adalah?",
-      "choices": {
-        "A": "Minyak bumi",
-        "B": "Angin",
-        "C": "Matahari"
-      },
-      "correctAnswer": "A"
-    },
-    {
-      "question": "Bagian tumbuhan yang\nberfungsi sebagai alat\nperkembangbiakan adalah?",
-      "choices": {
-        "A": "Akar",
-        "B": "Daun",
-        "C": "Bunga"
-      },
-      "correctAnswer": "C"
-    },
-    {
-      "question": "Proses dimana tumbuhan\nmengubah sinar matahari\n menjadi energi disebut?",
-      "choices": {
-        "A": "Respirasi",
-        "B": "Fotosintesis",
-        "C": "Transpirasi"
-      },
-      "correctAnswer": "B"
-    },
-    {
-      "question": "Apa yang menjadi sumber\nenergi utama bagi kehidupan\n di Bumi?",
-      "choices": {
-        "A": "Matahari",
-        "B": "Bulan",
-        "C": "Bintang"
-      },
-      "correctAnswer": "A"
-    },
-    {
-      "question": "Apa yang terjadi pada\nair ketika dibekukan?",
-      "choices": {
-        "A": "Menjadi gas",
-        "B": "Menjadi es",
-        "C": "Menghilang"
-      },
-      "correctAnswer": "B"
-    },
-    {
-      "question": "Hewan apa yang disebut\nraja hutan?",
-      "choices": {
-        "A": "Gajah",
-        "B": "Harimau",
-        "C": "Singa"
-      },
-      "correctAnswer": "C"
-    },
-    {
-      "question": "Apa bagian tanaman\n yang berfungsi menyerap\n air dan nutrisi dari tanah?",
-      "choices": {
-        "A": "Daun",
-        "B": "Akar",
-        "C": "Batang"
-      },
-      "correctAnswer": "B"
-    },
-    {
-      "question": "Apa yang digunakan tanaman\nuntuk membuat makanan\n melalui proses fotosintesis?",
-      "choices": {
-        "A": "Air, udara, dan cahaya matahari",
-        "B": "Air, batu, dan tanah",
-        "C": "Air, angin, dan api"
-      },
-      "correctAnswer": "A"
-    },
-    {
-      "question": "Apa yang terjadi saat\nsiang hari ketika Matahari\nberada di atas kepala\n kita?",
-      "choices": {
-        "A": "Siang menjadi malam",
-        "B": "Bayangan menjadi pendek",
-        "C": "Bayangan menjadi panjang"
-      },
-      "correctAnswer": "B"
-    },
-    {
-      "question": "Apa yang dihasilkan oleh\nlebah selain madu?",
-      "choices": {
-        "A": "Gula",
-        "B": "Lilin",
-        "C": "Kertas"
-      },
-      "correctAnswer": "B"
-    },
-    {
-      "question": "Apa yang terjadi jika\nkita menyiram tanaman\n setiap hari?",
-      "choices": {
-        "A": "Tanaman akan layu",
-        "B": "Tanaman akan tumbuh subur",
-        "C": "Tanaman akan mengering"
-      },
-      "correctAnswer": "B"
-    },
-    {
-      "question": "Apa nama planet terbesar\n di tata surya kita?",
-      "choices": {
-        "A": "Bumi",
-        "B": "Mars",
-        "C": "Jupiter"
-      },
-      "correctAnswer": "C"
-    },
-    {
-      "question": "Apa yang terjadi pada\nbayangan kita saat malam\nhari tanpa adanya cahaya?",
-      "choices": {
-        "A": "Bayangan terlihat jelas",
-        "B": "Bayangan menjadi sangat besar",
-        "C": "Bayangan tidak terlihat"
-      },
-      "correctAnswer": "C"
-    },
-    {
-      "question": "Apa nama ibukota Spanyol?",
-      "choices": {
-        "A": "Barcelona",
-        "B": "Madrid",
-        "C": "Sevilla"
-      },
-      "correctAnswer": "B"
-    },
-    {
-      "question": "Apa nama benua terkecil di dunia?",
-      "choices": {
-        "A": "Australia",
-        "B": "Antartika",
-        "C": "Eropa"
-      },
-      "correctAnswer": "A"
-    },
-    {
-      "question": "Apa nama mata uang resmi Thailand?",
-      "choices": {
-        "A": "Ringgit",
-        "B": "Baht",
-        "C": "Dong"
-      },
-      "correctAnswer": "B"
-    },
-    {
-      "question": "Apa nama danau terdalam di dunia?",
-      "choices": {
-        "A": "Danau Toba",
-        "B": "Danau Baikal",
-        "C": "Danau Victoria"
-      },
-      "correctAnswer": "B"
-    },
-    {
-      "question": "Negara manakah yang memiliki populasi terbesar di dunia?",
-      "choices": {
-        "A": "India",
-        "B": "Amerika Serikat",
-        "C": "China"
-      },
-      "correctAnswer": "C"
-    },
-    {
-      "question": "Apa nama gurun terluas di dunia?",
-      "choices": {
-        "A": "Gurun Sahara",
-        "B": "Gurun Gobi",
-        "C": "Gurun Arab"
-      },
-      "correctAnswer": "A"
-    },
-    {
-      "question": "Apa nama ibukota Mesir?",
-      "choices": {
-        "A": "Alexandria",
-        "B": "Kairo",
-        "C": "Luxor"
-      },
-      "correctAnswer": "B"
-    },
-    {
-      "question": "Apa nama sungai terpanjang di Eropa?",
-      "choices": {
-        "A": "Sungai Thames",
-        "B": "Sungai Volga",
-        "C": "Sungai Danube"
-      },
-      "correctAnswer": "B"
-    },
-    {
-      "question": "Di manakah letak Menara Eiffel?",
-      "choices": {
-        "A": "London",
-        "B": "Paris",
-        "C": "Roma"
-      },
-      "correctAnswer": "B"
-    },
-    {
-      "question": "Apa nama ibukota Argentina?",
-      "choices": {
-        "A": "Buenos Aires",
-        "B": "Santiago",
-        "C": "Lima"
-      },
-      "correctAnswer": "A"
-    },
-    {
-      "question": "Apa nama gunung berapi tertinggi di Indonesia?",
-      "choices": {
-        "A": "Gunung Merapi",
-        "B": "Gunung Kerinci",
-        "C": "Gunung Semeru"
-      },
-      "correctAnswer": "B"
-    },
-    {
-      "question": "Apa nama selat yang memisahkan Jawa dan Sumatra?",
-      "choices": {
-        "A": "Selat Sunda",
-        "B": "Selat Malaka",
-        "C": "Selat Lombok"
-      },
-      "correctAnswer": "A"
-    },
-    {
-      "question": "Apa nama ibukota Malaysia?",
-      "choices": {
-        "A": "Kuala Lumpur",
-        "B": "Jakarta",
-        "C": "Bangkok"
-      },
-      "correctAnswer": "A"
-    },
-    {
-      "question": "Apa nama bandara internasional utama di Bali?",
-      "choices": {
-        "A": "Bandara Soekarno-Hatta",
-        "B": "Bandara Ngurah Rai",
-        "C": "Bandara Juanda"
-      },
-      "correctAnswer": "B"
-    },
-    {
-      "question": "Pulau manakah yang terbesar di Indonesia setelah Kalimantan?",
-      "choices": {
-        "A": "Sumatra",
-        "B": "Sulawesi",
-        "C": "Jawa"
-      },
-      "correctAnswer": "A"
-    },
-    {
-      "question": "Apa nama mata uang resmi Korea Selatan?",
-      "choices": {
-        "A": "Yen",
-        "B": "Won",
-        "C": "Ringgit"
-      },
-      "correctAnswer": "B"
-    },
-    {
-      "question": "Apa nama ibukota Vietnam?",
-      "choices": {
-        "A": "Ho Chi Minh City",
-        "B": "Hanoi",
-        "C": "Bangkok"
-      },
-      "correctAnswer": "B"
-    },
-    {
-      "question": "Apa nama danau terbesar di Afrika?",
-      "choices": {
-        "A": "Danau Victoria",
-        "B": "Danau Tanganyika",
-        "C": "Danau Malawi"
-      },
-      "correctAnswer": "A"
-    },
-    {
-      "question": "Apa nama ibukota Turki?",
-      "choices": {
-        "A": "Istanbul",
-        "B": "Ankara",
-        "C": "Izmir"
-      },
-      "correctAnswer": "B"
-    },
-    {
-      "question": "Apa nama sungai yang mengalir melalui kota London?",
-      "choices": {
-        "A": "Sungai Seine",
-        "B": "Sungai Thames",
-        "C": "Sungai Rhine"
-      },
-      "correctAnswer": "B"
-    },
-    {
-      "question": "Apa nama ibukota Australia?",
-      "choices": {
-        "A": "Sydney",
-        "B": "Melbourne",
-        "C": "Canberra"
-      },
-      "correctAnswer": "C"
-    },
-    {
-      "question": "Apa nama negara terkecil di dunia?",
-      "choices": {
-        "A": "Monako",
-        "B": "Vatikan",
-        "C": "San Marino"
-      },
-      "correctAnswer": "B"
-    },
-    {
-      "question": "Apa nama ibukota Filipina?",
-      "choices": {
-        "A": "Cebu",
-        "B": "Manila",
-        "C": "Davao"
-      },
-      "correctAnswer": "B"
-    },
-    {
-      "question": "Apa nama pegunungan yang membatasi Eropa dan Asia?",
-      "choices": {
-        "A": "Pegunungan Alpen",
-        "B": "Pegunungan Ural",
-        "C": "Pegunungan Himalaya"
-      },
-      "correctAnswer": "B"
-    },
-    {
-      "question": "Apa nama ibukota Afrika Selatan?",
-      "choices": {
-        "A": "Johannesburg",
-        "B": "Cape Town",
-        "C": "Pretoria"
-      },
-      "correctAnswer": "C"
-    },
-    {
-      "question": "Apa nama laut yang terletak antara Arab dan Afrika?",
-      "choices": {
-        "A": "Laut Merah",
-        "B": "Laut Mediterania",
-        "C": "Laut Hitam"
-      },
-      "correctAnswer": "A"
-    },
-    {
-      "question": "Apa nama ibukota Rusia?",
-      "choices": {
-        "A": "St. Petersburg",
-        "B": "Moskwa",
-        "C": "Kazan"
-      },
-      "correctAnswer": "B"
-    },
-    {
-      "question": "Apa nama negara yang terletak di ujung selatan Amerika Selatan?",
-      "choices": {
-        "A": "Chile",
-        "B": "Argentina",
-        "C": "Brazil"
-      },
-      "correctAnswer": "A"
-    },
-    {
-      "question": "Apa nama ibukota Belanda?",
-      "choices": {
-        "A": "Rotterdam",
-        "B": "Amsterdam",
-        "C": "Den Haag"
-      },
-      "correctAnswer": "B"
-    },
-    {
-      "question": "Apa nama selat yang memisahkan Inggris dan Perancis?",
-      "choices": {
-        "A": "Selat Gibraltar",
-        "B": "Selat Dover",
-        "C": "Selat Bosphorus"
-      },
-      "correctAnswer": "B"
-    },
-    {
-      "question": "Apa nama ibukota Yunani?",
-      "choices": {
-        "A": "Thessaloniki",
-        "B": "Athena",
-        "C": "Patras"
-      },
-      "correctAnswer": "B"
-    },
-    {
-      "question": "Apa nama negara yang dikenal sebagai Negeri Matahari Terbit?",
-      "choices": {
-        "A": "Korea Selatan",
-        "B": "China",
-        "C": "Jepang"
-      },
-      "correctAnswer": "C"
-    },
-    {
-      "question": "Apa nama ibukota Meksiko?",
-      "choices": {
-        "A": "Guadalajara",
-        "B": "Mexico City",
-        "C": "Monterrey"
-      },
-      "correctAnswer": "B"
-    },
-    {
-      "question": "Apa nama sungai suci di India?",
-      "choices": {
-        "A": "Sungai Gangga",
-        "B": "Sungai Yamuna",
-        "C": "Sungai Brahmaputra"
-      },
-      "correctAnswer": "A"
-    },
-    {
-      "question": "Apa nama ibukota Norwegia?",
-      "choices": {
-        "A": "Stockholm",
-        "B": "Oslo",
-        "C": "Kopenhagen"
-      },
-      "correctAnswer": "B"
-    },
-    {
-      "question": "Apa nama negara yang memiliki bentuk seperti sepatu boot?",
-      "choices": {
-        "A": "Spanyol",
-        "B": "Italia",
-        "C": "Portugal"
-      },
-      "correctAnswer": "B"
-    },
-    {
-      "question": "Apa nama ibukota Swiss?",
-      "choices": {
-        "A": "Zurich",
-        "B": "Jenewa",
-        "C": "Bern"
-      },
-      "correctAnswer": "C"
-    },
-    {
-      "question": "Apa nama laut yang terletak antara Italia dan Balkan?",
-      "choices": {
-        "A": "Laut Adriatik",
-        "B": "Laut Tengah",
-        "C": "Laut Hitam"
-      },
-      "correctAnswer": "A"
-    },
-    {
-      "question": "Apa nama ibukota Portugal?",
-      "choices": {
-        "A": "Porto",
-        "B": "Lisbon",
-        "C": "Faro"
-      },
-      "correctAnswer": "B"
-    },
-    {
-      "question": "Apa nama negara yang terletak di antara Spanyol dan Perancis?",
-      "choices": {
-        "A": "Andorra",
-        "B": "Portugal",
-        "C": "Monako"
-      },
-      "correctAnswer": "A"
-    },
-    {
-      "question": "Apa nama ibukota Polandia?",
-      "choices": {
-        "A": "Krakow",
-        "B": "Warsawa",
-        "C": "Gdansk"
-      },
-      "correctAnswer": "B"
-    },
-    {
-      "question": "Apa nama negara yang terletak di ujung utara Eropa?",
-      "choices": {
-        "A": "Finlandia",
-        "B": "Swedia",
-        "C": "Norwegia"
-      },
-      "correctAnswer": "C"
-    },
-    {
-      "question": "Apa nama ibukota Denmark?",
-      "choices": {
-        "A": "Oslo",
-        "B": "Stockholm",
-        "C": "Kopenhagen"
-      },
-      "correctAnswer": "C"
-    },
-    {
-      "question": "Apa nama negara yang terletak di antara Prancis dan Jerman?",
-      "choices": {
-        "A": "Belgia",
-        "B": "Luksemburg",
-        "C": "Belanda"
-      },
-      "correctAnswer": "B"
-    },
-    {
-      "question": "Apa nama ibukota Finlandia?",
-      "choices": {
-        "A": "Stockholm",
-        "B": "Oslo",
-        "C": "Helsinki"
-      },
-      "correctAnswer": "C"
-    },
-    {
-      "question": "Apa nama negara yang terletak di sebelah utara Jerman?",
-      "choices": {
-        "A": "Belanda",
-        "B": "Denmark",
-        "C": "Polandia"
-      },
-      "correctAnswer": "B"
-    },
-    {
-      "question": "Apa nama ibukota Hungaria?",
-      "choices": {
-        "A": "Prague",
-        "B": "Budapest",
-        "C": "Bratislava"
-      },
-      "correctAnswer": "B"
-    },
-    {
-      "question": "Apa nama negara yang terletak di sebelah barat Spanyol?",
-      "choices": {
-        "A": "Portugal",
-        "B": "Maroko",
-        "C": "Perancis"
-      },
-      "correctAnswer": "A"
-    },
-    {
-      "question": "Apa nama ibukota Republik Ceko?",
-      "choices": {
-        "A": "Bratislava",
-        "B": "Prague",
-        "C": "Wina"
-      },
-      "correctAnswer": "B"
-    },
-    {
-      "question": "Apa nama negara yang terletak di sebelah selatan Austria?",
-      "choices": {
-        "A": "Swiss",
-        "B": "Slovenia",
-        "C": "Slowakia"
-      },
-      "correctAnswer": "B"
-    },
-    {
-      "question": "Apa nama ibukota Rumania?",
-      "choices": {
-        "A": "Budapest",
-        "B": "Bukares",
-        "C": "Sofia"
-      },
-      "correctAnswer": "B"
-    },
-    {
-      "question": "Apa nama negara yang terletak di sebelah timur Jerman?",
-      "choices": {
-        "A": "Austria",
-        "B": "Polandia",
-        "C": "Republik Ceko"
-      },
-      "correctAnswer": "B"
-    }    
+  {
+    "question": "Apa bahan utama untuk membuat nasi goreng?",
+    "choices": {
+      "A": "Tepung terigu",
+      "B": "Nasi putih",
+      "C": "Santan"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Bahan utama dalam membuat kue bolu adalah?",
+    "choices": {
+      "A": "Keju",
+      "B": "Telur",
+      "C": "Daging ayam"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Untuk membuat sambal, bahan utama yang harus ada adalah?",
+    "choices": {
+      "A": "Tomat",
+      "B": "Cabai",
+      "C": "Kentang"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Bahan utama dalam rendang adalah?",
+    "choices": {
+      "A": "Ikan",
+      "B": "Ayam",
+      "C": "Daging sapi"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "question": "Untuk membuat bakwan sayur, salah satu sayuran yang digunakan adalah?",
+    "choices": {
+      "A": "Bayam",
+      "B": "Wortel",
+      "C": "Sawi"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Bumbu dasar kuning biasanya menggunakan bahan?",
+    "choices": {
+      "A": "Kunyit",
+      "B": "Lada hitam",
+      "C": "Cabe merah"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "question": "Bahan utama dalam sup ayam adalah?",
+    "choices": {
+      "A": "Tepung",
+      "B": "Ayam",
+      "C": "Keju"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Apa bahan yang digunakan untuk membuat adonan mie?",
+    "choices": {
+      "A": "Tepung terigu",
+      "B": "Tepung ketan",
+      "C": "Santan"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "question": "Untuk membuat es teh manis, bahan utama adalah?",
+    "choices": {
+      "A": "Teh, gula, dan es batu",
+      "B": "Kopi dan susu",
+      "C": "Sirup dan susu"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "question": "Bahan utama untuk membuat risoles adalah?",
+    "choices": {
+      "A": "Kulit lumpia",
+      "B": "Kulit pangsit",
+      "C": "Roti tawar"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "question": "Bumbu dapur yang sering digunakan untuk menambah rasa gurih adalah?",
+    "choices": {
+      "A": "Garam",
+      "B": "Micin (MSG)",
+      "C": "Lada"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Bahan utama dalam pembuatan sate ayam adalah?",
+    "choices": {
+      "A": "Ayam dan tusuk sate",
+      "B": "Telur dan daging sapi",
+      "C": "Ikan dan kecap"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "question": "Bahan dasar adonan kulit lumpia adalah?",
+    "choices": {
+      "A": "Tepung terigu dan air",
+      "B": "Susu dan telur",
+      "C": "Minyak dan keju"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "question": "Untuk membuat puding, bahan utama yang digunakan adalah?",
+    "choices": {
+      "A": "Santan",
+      "B": "Agar-agar",
+      "C": "Keju"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Salah satu bahan utama dalam pembuatan opor ayam adalah?",
+    "choices": {
+      "A": "Kecap manis",
+      "B": "Santan",
+      "C": "Cuka"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Rujak buah biasanya disajikan dengan bumbu?",
+    "choices": {
+      "A": "Kacang tanah",
+      "B": "Gula merah dan cabai",
+      "C": "Kecap asin"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Untuk membuat donat empuk, bahan yang digunakan adalah?",
+    "choices": {
+      "A": "Tepung beras",
+      "B": "Tepung terigu dan ragi",
+      "C": "Susu bubuk"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Masakan khas Jawa yang menggunakan tempe dan santan adalah?",
+    "choices": {
+      "A": "Lodeh",
+      "B": "Rawon",
+      "C": "Soto"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "question": "Untuk membuat kue kering, bahan yang paling utama adalah?",
+    "choices": {
+      "A": "Tepung terigu",
+      "B": "Telur puyuh",
+      "C": "Nasi"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "question": "Apa bahan utama dari karedok?",
+    "choices": {
+      "A": "Sayuran mentah dan bumbu kacang",
+      "B": "Sayuran rebus dan santan",
+      "C": "Nasi dan telur"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "question": "Untuk membuat telur balado, bahan utama bumbu adalah?",
+    "choices": {
+      "A": "Cabai merah",
+      "B": "Tomat hijau",
+      "C": "Saus tiram"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "question": "Rendang berasal dari daerah?",
+    "choices": {
+      "A": "Minangkabau",
+      "B": "Betawi",
+      "C": "Sunda"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "question": "Untuk membuat kolak pisang, bahan utama selain pisang adalah?",
+    "choices": {
+      "A": "Minyak",
+      "B": "Santan dan gula merah",
+      "C": "Kecap dan garam"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Jenis ikan yang umum digunakan untuk membuat pepes adalah?",
+    "choices": {
+      "A": "Ikan mas",
+      "B": "Ikan paus",
+      "C": "Ikan lele laut"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "question": "Untuk membuat sambal terasi, selain cabai biasanya ditambah?",
+    "choices": {
+      "A": "Kecap",
+      "B": "Terasi",
+      "C": "Susu"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Apa kepanjangan dari CPU?",
+    "choices": {
+      "A": "Central Process Unit",
+      "B": "Central Processing Unit",
+      "C": "Control Processing Unit"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Perangkat keras yang digunakan untuk mencetak dokumen adalah?",
+    "choices": {
+      "A": "Scanner",
+      "B": "Monitor",
+      "C": "Printer"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "question": "Program untuk mengakses internet disebut?",
+    "choices": {
+      "A": "Browser",
+      "B": "Compiler",
+      "C": "Editor"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "question": "Contoh sistem operasi adalah?",
+    "choices": {
+      "A": "Microsoft Word",
+      "B": "Linux",
+      "C": "Google Chrome"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Singkatan dari HTML adalah?",
+    "choices": {
+      "A": "Hyper Tool Mark Language",
+      "B": "Hyper Text Markup Language",
+      "C": "High Text Manage Language"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Fungsi utama RAM adalah?",
+    "choices": {
+      "A": "Menyimpan data secara permanen",
+      "B": "Menjalankan proses sementara",
+      "C": "Mengolah grafis"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Contoh perangkat input adalah?",
+    "choices": {
+      "A": "Monitor",
+      "B": "Speaker",
+      "C": "Keyboard"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "question": "Salah satu contoh software pengolah kata adalah?",
+    "choices": {
+      "A": "Excel",
+      "B": "Photoshop",
+      "C": "Microsoft Word"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "question": "Perangkat yang menampilkan hasil pengolahan data adalah?",
+    "choices": {
+      "A": "Mouse",
+      "B": "Monitor",
+      "C": "Scanner"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Apa fungsi modem?",
+    "choices": {
+      "A": "Mengubah sinyal digital ke analog dan sebaliknya",
+      "B": "Memproses grafik",
+      "C": "Menampilkan data"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "question": "Cloud computing merujuk pada?",
+    "choices": {
+      "A": "Penyimpanan data secara lokal",
+      "B": "Penyimpanan data di internet",
+      "C": "Penyimpanan di flashdisk"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Perangkat lunak yang digunakan untuk membuat presentasi adalah?",
+    "choices": {
+      "A": "Excel",
+      "B": "Word",
+      "C": "PowerPoint"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "question": "Shortcut untuk menyimpan file di Windows adalah?",
+    "choices": {
+      "A": "Ctrl + A",
+      "B": "Ctrl + S",
+      "C": "Ctrl + C"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Apa itu virus komputer?",
+    "choices": {
+      "A": "Perangkat keras",
+      "B": "Program berbahaya",
+      "C": "Perangkat input"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Ekstensi file gambar umumnya adalah?",
+    "choices": {
+      "A": ".docx",
+      "B": ".jpg",
+      "C": ".ppt"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Aplikasi untuk pengolah angka adalah?",
+    "choices": {
+      "A": "Microsoft Excel",
+      "B": "Adobe Photoshop",
+      "C": "Notepad"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "question": "Alat untuk menggerakkan kursor di layar adalah?",
+    "choices": {
+      "A": "Keyboard",
+      "B": "Mouse",
+      "C": "Monitor"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Media penyimpanan yang bersifat optik adalah?",
+    "choices": {
+      "A": "Harddisk",
+      "B": "CD/DVD",
+      "C": "Flashdisk"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Bahasa pemrograman Python digunakan untuk?",
+    "choices": {
+      "A": "Menggambar",
+      "B": "Memutar video",
+      "C": "Membuat aplikasi"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "question": "WWW adalah singkatan dari?",
+    "choices": {
+      "A": "World Wide Web",
+      "B": "World Web Wide",
+      "C": "Wide World Web"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "question": "Apa nama perangkat lunak antivirus populer?",
+    "choices": {
+      "A": "Windows",
+      "B": "Avast",
+      "C": "Excel"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Perangkat untuk mengubah dokumen fisik menjadi digital adalah?",
+    "choices": {
+      "A": "Scanner",
+      "B": "Printer",
+      "C": "Modem"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "question": "Salah satu sistem operasi berbasis open source adalah?",
+    "choices": {
+      "A": "Windows",
+      "B": "Linux",
+      "C": "MacOS"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Keamanan data dalam jaringan disebut?",
+    "choices": {
+      "A": "Firewall",
+      "B": "Router",
+      "C": "Hub"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "question": "Alat yang digunakan untuk menghubungkan jaringan lokal disebut?",
+    "choices": {
+      "A": "RAM",
+      "B": "Switch",
+      "C": "Monitor"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Apa nama benua yang dikenal sebagai benua hitam?",
+    "choices": {
+      "A": "Asia",
+      "B": "Eropa",
+      "C": "Afrika"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "question": "Ibukota negara Thailand adalah?",
+    "choices": {
+      "A": "Bangkok",
+      "B": "Hanoi",
+      "C": "Manila"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "question": "Kerajaan Hindu tertua di Indonesia adalah?",
+    "choices": {
+      "A": "Majapahit",
+      "B": "Kutai",
+      "C": "Sriwijaya"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Siapa proklamator kemerdekaan Indonesia?",
+    "choices": {
+      "A": "Soekarno dan Hatta",
+      "B": "Soedirman dan Hatta",
+      "C": "Soekarno dan Soeharto"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "question": "Organisasi kerja sama negara-negara Asia Tenggara adalah?",
+    "choices": {
+      "A": "PBB",
+      "B": "ASEAN",
+      "C": "NATO"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Apa ibukota dari Provinsi Papua?",
+    "choices": {
+      "A": "Jayapura",
+      "B": "Sorong",
+      "C": "Manokwari"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "question": "Sungai Nil terdapat di benua?",
+    "choices": {
+      "A": "Asia",
+      "B": "Afrika",
+      "C": "Amerika"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Hari Sumpah Pemuda diperingati setiap tanggal?",
+    "choices": {
+      "A": "17 Agustus",
+      "B": "10 November",
+      "C": "28 Oktober"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "question": "Perang Dunia II berakhir pada tahun?",
+    "choices": {
+      "A": "1940",
+      "B": "1945",
+      "C": "1950"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Pulau terbesar di Indonesia adalah?",
+    "choices": {
+      "A": "Jawa",
+      "B": "Sumatra",
+      "C": "Kalimantan"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "question": "Bentuk pemerintahan Indonesia adalah?",
+    "choices": {
+      "A": "Monarki",
+      "B": "Republik",
+      "C": "Kerajaan"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Badan internasional yang menangani kesehatan dunia adalah?",
+    "choices": {
+      "A": "FAO",
+      "B": "WHO",
+      "C": "IMF"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Apa nama candi Buddha terbesar di dunia yang ada di Indonesia?",
+    "choices": {
+      "A": "Candi Prambanan",
+      "B": "Candi Mendut",
+      "C": "Candi Borobudur"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "question": "Reformasi di Indonesia terjadi pada tahun?",
+    "choices": {
+      "A": "1995",
+      "B": "1998",
+      "C": "2000"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Komoditas utama VOC di Indonesia adalah?",
+    "choices": {
+      "A": "Gula",
+      "B": "Rempah-rempah",
+      "C": "Emas"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Provinsi termuda di Indonesia adalah?",
+    "choices": {
+      "A": "Papua Barat Daya",
+      "B": "Kalimantan Utara",
+      "C": "Sulawesi Barat"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "question": "Apa bentuk permukaan bumi berupa daratan tinggi disebut?",
+    "choices": {
+      "A": "Dataran rendah",
+      "B": "Gunung",
+      "C": "Dataran tinggi"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "question": "Sistem tanam paksa di masa penjajahan disebut?",
+    "choices": {
+      "A": "Cultuurstelsel",
+      "B": "Autarki",
+      "C": "Sistem upeti"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "question": "Deklarasi Djuanda dikeluarkan pada tahun?",
+    "choices": {
+      "A": "1955",
+      "B": "1957",
+      "C": "1960"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Gajah Mada dikenal dengan Sumpah?",
+    "choices": {
+      "A": "Sumpah Pemuda",
+      "B": "Sumpah Palapa",
+      "C": "Sumpah Merdeka"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Sumber daya alam yang dapat diperbarui adalah?",
+    "choices": {
+      "A": "Batu bara",
+      "B": "Emas",
+      "C": "Hutan"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "question": "Pusat pergerakan nasional pada masa penjajahan adalah?",
+    "choices": {
+      "A": "Budi Utomo",
+      "B": "VOC",
+      "C": "PNI"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "question": "Siapa presiden RI ke-3?",
+    "choices": {
+      "A": "Soekarno",
+      "B": "Habibie",
+      "C": "Gus Dur"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Apa yang dimaksud dengan ekspor?",
+    "choices": {
+      "A": "Membeli barang dari luar negeri",
+      "B": "Menjual barang ke luar negeri",
+      "C": "Memproduksi barang di dalam negeri"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Kerajaan Islam pertama di Indonesia adalah?",
+    "choices": {
+      "A": "Demak",
+      "B": "Samudera Pasai",
+      "C": "Mataram"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Apa nama benua yang dikenal sebagai benua hitam?",
+    "choices": {
+      "A": "Asia",
+      "B": "Eropa",
+      "C": "Afrika"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "question": "Ibukota negara Thailand adalah?",
+    "choices": {
+      "A": "Bangkok",
+      "B": "Hanoi",
+      "C": "Manila"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "question": "Kerajaan Hindu tertua di Indonesia adalah?",
+    "choices": {
+      "A": "Majapahit",
+      "B": "Kutai",
+      "C": "Sriwijaya"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Siapa proklamator kemerdekaan Indonesia?",
+    "choices": {
+      "A": "Soekarno dan Hatta",
+      "B": "Soedirman dan Hatta",
+      "C": "Soekarno dan Soeharto"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "question": "Organisasi kerja sama negara-negara Asia Tenggara adalah?",
+    "choices": {
+      "A": "PBB",
+      "B": "ASEAN",
+      "C": "NATO"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Apa ibukota dari Provinsi Papua?",
+    "choices": {
+      "A": "Jayapura",
+      "B": "Sorong",
+      "C": "Manokwari"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "question": "Sungai Nil terdapat di benua?",
+    "choices": {
+      "A": "Asia",
+      "B": "Afrika",
+      "C": "Amerika"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Hari Sumpah Pemuda diperingati setiap tanggal?",
+    "choices": {
+      "A": "17 Agustus",
+      "B": "10 November",
+      "C": "28 Oktober"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "question": "Perang Dunia II berakhir pada tahun?",
+    "choices": {
+      "A": "1940",
+      "B": "1945",
+      "C": "1950"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Pulau terbesar di Indonesia adalah?",
+    "choices": {
+      "A": "Jawa",
+      "B": "Sumatra",
+      "C": "Kalimantan"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "question": "Bentuk pemerintahan Indonesia adalah?",
+    "choices": {
+      "A": "Monarki",
+      "B": "Republik",
+      "C": "Kerajaan"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Badan internasional yang menangani kesehatan dunia adalah?",
+    "choices": {
+      "A": "FAO",
+      "B": "WHO",
+      "C": "IMF"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Apa nama candi Buddha terbesar di dunia yang ada di Indonesia?",
+    "choices": {
+      "A": "Candi Prambanan",
+      "B": "Candi Mendut",
+      "C": "Candi Borobudur"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "question": "Reformasi di Indonesia terjadi pada tahun?",
+    "choices": {
+      "A": "1995",
+      "B": "1998",
+      "C": "2000"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Komoditas utama VOC di Indonesia adalah?",
+    "choices": {
+      "A": "Gula",
+      "B": "Rempah-rempah",
+      "C": "Emas"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Provinsi termuda di Indonesia adalah?",
+    "choices": {
+      "A": "Papua Barat Daya",
+      "B": "Kalimantan Utara",
+      "C": "Sulawesi Barat"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "question": "Apa bentuk permukaan bumi berupa daratan tinggi disebut?",
+    "choices": {
+      "A": "Dataran rendah",
+      "B": "Gunung",
+      "C": "Dataran tinggi"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "question": "Sistem tanam paksa di masa penjajahan disebut?",
+    "choices": {
+      "A": "Cultuurstelsel",
+      "B": "Autarki",
+      "C": "Sistem upeti"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "question": "Deklarasi Djuanda dikeluarkan pada tahun?",
+    "choices": {
+      "A": "1955",
+      "B": "1957",
+      "C": "1960"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Gajah Mada dikenal dengan Sumpah?",
+    "choices": {
+      "A": "Sumpah Pemuda",
+      "B": "Sumpah Palapa",
+      "C": "Sumpah Merdeka"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Sumber daya alam yang dapat diperbarui adalah?",
+    "choices": {
+      "A": "Batu bara",
+      "B": "Emas",
+      "C": "Hutan"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "question": "Pusat pergerakan nasional pada masa penjajahan adalah?",
+    "choices": {
+      "A": "Budi Utomo",
+      "B": "VOC",
+      "C": "PNI"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "question": "Siapa presiden RI ke-3?",
+    "choices": {
+      "A": "Soekarno",
+      "B": "Habibie",
+      "C": "Gus Dur"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Apa yang dimaksud dengan ekspor?",
+    "choices": {
+      "A": "Membeli barang dari luar negeri",
+      "B": "Menjual barang ke luar negeri",
+      "C": "Memproduksi barang di dalam negeri"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Kerajaan Islam pertama di Indonesia adalah?",
+    "choices": {
+      "A": "Demak",
+      "B": "Samudera Pasai",
+      "C": "Mataram"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Apa alat yang digunakan untuk mengukur suhu?",
+    "choices": {
+      "A": "Barometer",
+      "B": "Termometer",
+      "C": "Higrometer"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Planet manakah yang dikenal sebagai 'planet merah'?",
+    "choices": {
+      "A": "Mars",
+      "B": "Venus",
+      "C": "Saturnus"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "question": "Bagian tumbuhan yang berfungsi menyerap air dan mineral adalah?",
+    "choices": {
+      "A": "Akar",
+      "B": "Batang",
+      "C": "Daun"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "question": "Apa satuan untuk gaya dalam sistem SI?",
+    "choices": {
+      "A": "Joule",
+      "B": "Newton",
+      "C": "Watt"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Hewan yang berkembang biak dengan cara bertelur disebut?",
+    "choices": {
+      "A": "Vivipar",
+      "B": "Ovipar",
+      "C": "Ovovivipar"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Air laut terasa asin karena mengandung?",
+    "choices": {
+      "A": "Oksigen",
+      "B": "Karbon dioksida",
+      "C": "Garam mineral"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "question": "Jenis gaya yang menyebabkan benda jatuh ke bawah adalah?",
+    "choices": {
+      "A": "Gaya otot",
+      "B": "Gaya gesek",
+      "C": "Gaya gravitasi"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "question": "Gas yang paling banyak di atmosfer bumi adalah?",
+    "choices": {
+      "A": "Oksigen",
+      "B": "Karbon dioksida",
+      "C": "Nitrogen"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "question": "Energi alternatif yang berasal dari panas bumi disebut?",
+    "choices": {
+      "A": "Geotermal",
+      "B": "Biomassa",
+      "C": "Surya"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "question": "Pencernaan makanan secara kimia terjadi pertama kali di?",
+    "choices": {
+      "A": "Mulut",
+      "B": "Lambung",
+      "C": "Usus halus"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "question": "Zat yang tidak dapat diuraikan lagi disebut?",
+    "choices": {
+      "A": "Senyawa",
+      "B": "Campuran",
+      "C": "Unsur"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "question": "Hewan yang mengalami metamorfosis sempurna adalah?",
+    "choices": {
+      "A": "Belalang",
+      "B": "Katak",
+      "C": "Kucing"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Alat untuk melihat benda sangat kecil adalah?",
+    "choices": {
+      "A": "Teleskop",
+      "B": "Mikroskop",
+      "C": "Stetoskop"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Jenis perubahan wujud dari padat menjadi gas disebut?",
+    "choices": {
+      "A": "Menguap",
+      "B": "Mencair",
+      "C": "Menyublim"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "question": "Bagian mata yang berfungsi mengatur banyaknya cahaya yang masuk adalah?",
+    "choices": {
+      "A": "Lensa",
+      "B": "Iris",
+      "C": "Retina"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Urutan planet dari yang terdekat ke matahari adalah?",
+    "choices": {
+      "A": "Merkurius, Venus, Bumi",
+      "B": "Venus, Bumi, Mars",
+      "C": "Bumi, Mars, Jupiter"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "question": "Contoh sumber energi yang tidak dapat diperbarui adalah?",
+    "choices": {
+      "A": "Air",
+      "B": "Matahari",
+      "C": "Batu bara"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "question": "Sel darah merah berfungsi untuk?",
+    "choices": {
+      "A": "Melawan penyakit",
+      "B": "Membekukan darah",
+      "C": "Mengangkut oksigen"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "question": "Organ pernapasan pada tumbuhan adalah?",
+    "choices": {
+      "A": "Stomata",
+      "B": "Klorofil",
+      "C": "Xilem"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "question": "Penyakit anemia disebabkan oleh kekurangan?",
+    "choices": {
+      "A": "Vitamin C",
+      "B": "Zat besi",
+      "C": "Kalsium"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Benda yang bisa menghantarkan listrik disebut?",
+    "choices": {
+      "A": "Konduktor",
+      "B": "Isolator",
+      "C": "Transistor"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "question": "Sumber energi terbesar di tata surya adalah?",
+    "choices": {
+      "A": "Bumi",
+      "B": "Matahari",
+      "C": "Bulan"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Lapisan ozon berada di atmosfer bagian?",
+    "choices": {
+      "A": "Troposfer",
+      "B": "Stratosfer",
+      "C": "Mesosfer"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Zat yang digunakan untuk menyuburkan tanah disebut?",
+    "choices": {
+      "A": "Pestisida",
+      "B": "Herbisida",
+      "C": "Pupuk"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "question": "Jenis rangka yang melindungi otak adalah?",
+    "choices": {
+      "A": "Tulang rusuk",
+      "B": "Tengkorak",
+      "C": "Tulang belakang"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Apa kepanjangan dari RPL?",
+    "choices": {
+      "A": "Rekayasa Perangkat Lunak",
+      "B": "Rekayasa Program Linux",
+      "C": "Rencana Pengembangan Layanan"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "question": "Bahasa pemrograman yang umum digunakan untuk web backend adalah?",
+    "choices": {
+      "A": "HTML",
+      "B": "CSS",
+      "C": "PHP"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "question": "HTML digunakan untuk?",
+    "choices": {
+      "A": "Mengatur tampilan halaman",
+      "B": "Membuat struktur halaman web",
+      "C": "Menyimpan data"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Apa fungsi utama dari database?",
+    "choices": {
+      "A": "Mengatur tampilan halaman",
+      "B": "Menyimpan dan mengelola data",
+      "C": "Mengubah warna tampilan"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Perangkat lunak yang digunakan untuk version control adalah?",
+    "choices": {
+      "A": "MySQL",
+      "B": "Git",
+      "C": "Photoshop"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Salah satu contoh framework frontend adalah?",
+    "choices": {
+      "A": "Laravel",
+      "B": "Bootstrap",
+      "C": "Node.js"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Bahasa pemrograman Python termasuk jenis?",
+    "choices": {
+      "A": "Low-level",
+      "B": "High-level",
+      "C": "Binary"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "question": "SQL digunakan untuk?",
+    "choices": {
+      "A": "Mengatur style",
+      "B": "Menulis script animasi",
+      "C": "Mengelola data di database"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "question": "IDE adalah singkatan dari?",
+    "choices": {
+      "A": "Interface Design Engine",
+      "B": "Integrated Development Environment",
+      "C": "Internet Data Engine"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Contoh IDE yang banyak digunakan untuk coding adalah?",
+    "choices": {
+      "A": "CorelDRAW",
+      "B": "Visual Studio Code",
+      "C": "Adobe Reader"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Apa fungsi utama dari framework?",
+    "choices": {
+      "A": "Menambah storage",
+      "B": "Mempermudah pengembangan aplikasi",
+      "C": "Menampilkan gambar"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Bahasa pemrograman Java digunakan untuk?",
+    "choices": {
+      "A": "Aplikasi Android",
+      "B": "Desain grafis",
+      "C": "Edit video"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "question": "Tipe data untuk menyimpan teks dalam bahasa pemrograman disebut?",
+    "choices": {
+      "A": "Integer",
+      "B": "Boolean",
+      "C": "String"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "question": "Proses mencari dan memperbaiki kesalahan program disebut?",
+    "choices": {
+      "A": "Compiling",
+      "B": "Debugging",
+      "C": "Rebooting"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Contoh sistem operasi berbasis Unix adalah?",
+    "choices": {
+      "A": "Windows",
+      "B": "Linux",
+      "C": "Android"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Salah satu tugas programmer adalah?",
+    "choices": {
+      "A": "Mencetak dokumen",
+      "B": "Mengetik laporan",
+      "C": "Menulis kode program"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "question": "PHP adalah bahasa pemrograman yang berjalan di sisi?",
+    "choices": {
+      "A": "Client",
+      "B": "Server",
+      "C": "Browser"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "question": "React.js digunakan untuk membangun?",
+    "choices": {
+      "A": "Database",
+      "B": "Aplikasi backend",
+      "C": "Antarmuka pengguna (frontend)"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "question": "Apa nama basis data yang bersifat relasional?",
+    "choices": {
+      "A": "MongoDB",
+      "B": "MySQL",
+      "C": "Firebase"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Testing dalam pengembangan perangkat lunak bertujuan untuk?",
+    "choices": {
+      "A": "Menghapus kode",
+      "B": "Meningkatkan kecepatan komputer",
+      "C": "Memastikan program berjalan sesuai harapan"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "question": "Siklus hidup pengembangan perangkat lunak disebut?",
+    "choices": {
+      "A": "SDLC",
+      "B": "HTML",
+      "C": "JSON"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "question": "Contoh tools manajemen proyek perangkat lunak adalah?",
+    "choices": {
+      "A": "Excel",
+      "B": "Trello",
+      "C": "Spotify"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Bahasa pemrograman yang populer untuk data science adalah?",
+    "choices": {
+      "A": "Java",
+      "B": "Python",
+      "C": "HTML"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Model SDLC yang klasik dan linier disebut?",
+    "choices": {
+      "A": "Agile",
+      "B": "Scrum",
+      "C": "Waterfall"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "question": "Bahasa pemrograman untuk web interaktif di sisi klien adalah?",
+    "choices": {
+      "A": "JavaScript",
+      "B": "Python",
+      "C": "PHP"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "question": "Apa nama benua yang dikenal sebagai benua hitam?",
+    "choices": {
+      "A": "Asia",
+      "B": "Eropa",
+      "C": "Afrika"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "question": "Ibukota negara Thailand adalah?",
+    "choices": {
+      "A": "Bangkok",
+      "B": "Hanoi",
+      "C": "Manila"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "question": "Kerajaan Hindu tertua di Indonesia adalah?",
+    "choices": {
+      "A": "Majapahit",
+      "B": "Kutai",
+      "C": "Sriwijaya"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Siapa proklamator kemerdekaan Indonesia?",
+    "choices": {
+      "A": "Soekarno dan Hatta",
+      "B": "Soedirman dan Hatta",
+      "C": "Soekarno dan Soeharto"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "question": "Organisasi kerja sama negara-negara Asia Tenggara adalah?",
+    "choices": {
+      "A": "PBB",
+      "B": "ASEAN",
+      "C": "NATO"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Apa ibukota dari Provinsi Papua?",
+    "choices": {
+      "A": "Jayapura",
+      "B": "Sorong",
+      "C": "Manokwari"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "question": "Sungai Nil terdapat di benua?",
+    "choices": {
+      "A": "Asia",
+      "B": "Afrika",
+      "C": "Amerika"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Hari Sumpah Pemuda diperingati setiap tanggal?",
+    "choices": {
+      "A": "17 Agustus",
+      "B": "10 November",
+      "C": "28 Oktober"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "question": "Perang Dunia II berakhir pada tahun?",
+    "choices": {
+      "A": "1940",
+      "B": "1945",
+      "C": "1950"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Pulau terbesar di Indonesia adalah?",
+    "choices": {
+      "A": "Jawa",
+      "B": "Sumatra",
+      "C": "Kalimantan"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "question": "Bentuk pemerintahan Indonesia adalah?",
+    "choices": {
+      "A": "Monarki",
+      "B": "Republik",
+      "C": "Kerajaan"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Badan internasional yang menangani kesehatan dunia adalah?",
+    "choices": {
+      "A": "FAO",
+      "B": "WHO",
+      "C": "IMF"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Apa nama candi Buddha terbesar di dunia yang ada di Indonesia?",
+    "choices": {
+      "A": "Candi Prambanan",
+      "B": "Candi Mendut",
+      "C": "Candi Borobudur"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "question": "Reformasi di Indonesia terjadi pada tahun?",
+    "choices": {
+      "A": "1995",
+      "B": "1998",
+      "C": "2000"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Komoditas utama VOC di Indonesia adalah?",
+    "choices": {
+      "A": "Gula",
+      "B": "Rempah-rempah",
+      "C": "Emas"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Provinsi termuda di Indonesia adalah?",
+    "choices": {
+      "A": "Papua Barat Daya",
+      "B": "Kalimantan Utara",
+      "C": "Sulawesi Barat"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "question": "Apa bentuk permukaan bumi berupa daratan tinggi disebut?",
+    "choices": {
+      "A": "Dataran rendah",
+      "B": "Gunung",
+      "C": "Dataran tinggi"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "question": "Sistem tanam paksa di masa penjajahan disebut?",
+    "choices": {
+      "A": "Cultuurstelsel",
+      "B": "Autarki",
+      "C": "Sistem upeti"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "question": "Deklarasi Djuanda dikeluarkan pada tahun?",
+    "choices": {
+      "A": "1955",
+      "B": "1957",
+      "C": "1960"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Gajah Mada dikenal dengan Sumpah?",
+    "choices": {
+      "A": "Sumpah Pemuda",
+      "B": "Sumpah Palapa",
+      "C": "Sumpah Merdeka"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Sumber daya alam yang dapat diperbarui adalah?",
+    "choices": {
+      "A": "Batu bara",
+      "B": "Emas",
+      "C": "Hutan"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "question": "Pusat pergerakan nasional pada masa penjajahan adalah?",
+    "choices": {
+      "A": "Budi Utomo",
+      "B": "VOC",
+      "C": "PNI"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "question": "Siapa presiden RI ke-3?",
+    "choices": {
+      "A": "Soekarno",
+      "B": "Habibie",
+      "C": "Gus Dur"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Apa yang dimaksud dengan ekspor?",
+    "choices": {
+      "A": "Membeli barang dari luar negeri",
+      "B": "Menjual barang ke luar negeri",
+      "C": "Memproduksi barang di dalam negeri"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Kerajaan Islam pertama di Indonesia adalah?",
+    "choices": {
+      "A": "Demak",
+      "B": "Samudera Pasai",
+      "C": "Mataram"
+    },
+    "correctAnswer": "B"
+  }
   ]
 }
